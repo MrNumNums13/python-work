@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"team",
+				"teams"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"num",
+				"num_passenger"
+			],
+			[
+				"NUM",
+				"num_passenger"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"par",
+				"param1"
+			],
+			[
+				"subs",
+				"Subscriber"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"obj",
+				"object2"
+			],
+			[
+				"User",
+				"User2"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/harryhanskat/Desktop/Python test.py",
+		"/Users/harryhanskat/Downloads/FrendTrend/php/EditProfile.php",
+		"/Users/harryhanskat/Prog613/out/production/Prog613/Frame613.class",
+		"/Users/harryhanskat/Downloads/FrendTrend/php/deleteGroupAction.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter16/validate.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter15/chapter15.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter14/chapter14.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter13/hello.js",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example-solutions/book-example/loginscreen.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 11/radio.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/checksession.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/addBook.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter16/validate.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter16/validate.js",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter16/signup-1.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter15/chapter15-solutions.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/Chapter13/chapter13.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/deleteBook.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/loginscreen.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/logout.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/viewBook.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Lab 7/book-example/dbinfo.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/MVC/model/model.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/MVC/util/dbinfo.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 12/Solutions/1-login.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/redirect.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/MVC/test.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/MVC1/model/model.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Solutions/model/model.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/MVC/Solutions/controller/AddBookController.php",
+		"/Users/harryhanskat/Downloads/chapter11-solutions.txt",
+		"/Users/harryhanskat/Desktop/4460 mamp/HW2/golf_gods.sql",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 8 Intro to SQL/Chapter 8",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10 MySQL+PHP/login.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 5 PHP Objects/chapter5.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10 MySQL+PHP/fetchrow.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 7 Practical PHP/Chapter7.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/IntegratePHPandBootstrap/html-css.zip",
+		"/Users/harryhanskat/Desktop/4460 mamp/FrendTrend/home.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/FrendTrend/Login.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10 MySQL+PHP/viewRecord.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Exam 1/printForm.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Exam 1/Exam 1 Practice Problems.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/html-css/html-lecture.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10 MySQL+PHP/query.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 3 Basic PHP/chapter3.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 4 PHP Expressions/chapter4.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10/query.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 10/login.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/moviesite/html/movie-list.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 8/Chapter 8",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 7/Chapter7.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 6/Chapter6.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/moviesite/html/movie-details.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/bootstrap-base/Chapter6.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 5/chapter5A.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/Chapter 5/chapter5.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/bootstrap-base/styles.css",
+		"/Users/harryhanskat/Desktop/4460 mamp/bootstrap-base/bootstrap.html",
+		"/Users/harryhanskat/Desktop/4460 mamp/html-css/styles.css",
+		"/Users/harryhanskat/Desktop/4460 mamp/phpFiles/chapter5.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/phpFiles/chapter5A.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/chapter4.php",
+		"/Users/harryhanskat/Desktop/4460 mamp/quiz 1.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MSISPythonCourse.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
